@@ -1,5 +1,3 @@
-DROP DATABASE Creator;
-
 CREATE DATABASE Creator;
 USE Creator;
 
